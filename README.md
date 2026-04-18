@@ -30,7 +30,7 @@ Soy Ingeniera de Software con vocación docente. Me dedico a la enseñanza del D
 
 | Proyecto | Descripción | Repositorio |
 |---|---|---|
-| Nombre del proyecto | Descripción breve de qué hace | [Ver repo](https://github.com/rcardiaz/nombre-repo) |
+| Juego_geo | Juego de Geografía | [Ver repo](https://github.com/rcardiaz/juego_geo) |
 ---
 ## Contact
 📬 ¿Quieres colaborar o conversar sobre educación y tecnología? Puedes escribirme a través de mis repositorios o abrir un issue.
