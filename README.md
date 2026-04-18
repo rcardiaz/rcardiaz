@@ -1,4 +1,4 @@
-# Hi, I'm Rosario Cardiaz 👋
+# Hi, I'm Reina Díaz 👋
 Computer Science Engineer · Teacher · Trainer
 
 ## About me
