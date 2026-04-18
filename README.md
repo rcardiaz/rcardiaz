@@ -1,3 +1,6 @@
+# Hi, I'm Rosario Cardiaz 👋
+Computer Science Engineer · Teacher · Trainer
+
 ## About me
 Soy Ingeniera de Software con vocación docente. Me dedico a la enseñanza del Desarrollo de Software y al diseño de experiencias de aprendizaje significativas.
 
