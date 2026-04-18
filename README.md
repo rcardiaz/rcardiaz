@@ -25,6 +25,12 @@ Soy Ingeniera de Software con vocación docente. Me dedico a la enseñanza del D
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rcardiaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🚀 Projects
+
+| Proyecto | Descripción | Repositorio |
+|---|---|---|
+| Nombre del proyecto | Descripción breve de qué hace | [Ver repo](https://github.com/rcardiaz/nombre-repo) |
 ---
 ## Contact
 📬 ¿Quieres colaborar o conversar sobre educación y tecnología? Puedes escribirme a través de mis repositorios o abrir un issue.
