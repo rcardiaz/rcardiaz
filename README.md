@@ -3,7 +3,7 @@ Computer Science Engineer · Teacher · Trainer
 
 ## About me
 Soy Ingeniera en Ciencias de la Computación con vocación docente. Me dedico a la enseñanza del Desarrollo de Software y al diseño de experiencias de aprendizaje significativas.
-- 📖 Me mantengo en constante actualización — creo que aprender nunca termina, especialmente en tecnología.
+- 📖 Aprender es parte de mi rutina — especialmente en un campo que evoluciona tan rápido como la tecnología.
 - 🤝 Me gusta compartir lo que sé y apoyar a otros en su proceso de aprendizaje y desarrollo profesional.
 
 ## Focus areas
